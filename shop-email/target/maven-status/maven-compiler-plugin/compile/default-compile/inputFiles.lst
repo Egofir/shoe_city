@@ -1,0 +1,5 @@
+D:\shoe-city\shop-email\src\main\java\com\by\service\IEmailService.java
+D:\shoe-city\shop-email\src\main\java\com\by\shopemail\ShopEmailApplication.java
+D:\shoe-city\shop-email\src\main\java\com\by\config\RabbitMQConfig.java
+D:\shoe-city\shop-email\src\main\java\com\by\service\impl\EmailServiceImpl.java
+D:\shoe-city\shop-email\src\main\java\com\by\listener\EmailQueueListener.java

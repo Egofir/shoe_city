@@ -1,0 +1,7 @@
+D:\shoe-city\shop-search\src\main\java\com\by\shopsearch\ShopSearchApplication.java
+D:\shoe-city\shop-search\src\main\java\com\by\controller\SearchGoodsController.java
+D:\shoe-city\shop-search\src\main\java\com\by\service\impl\GoodsSearchServiceImpl.java
+D:\shoe-city\shop-search\src\main\java\com\by\config\RabbitMQConfig.java
+D:\shoe-city\shop-search\src\main\java\com\by\config\EsConfig.java
+D:\shoe-city\shop-search\src\main\java\com\by\listener\GoodsQueueListener.java
+D:\shoe-city\shop-search\src\main\java\com\by\service\IGoodsSearchService.java

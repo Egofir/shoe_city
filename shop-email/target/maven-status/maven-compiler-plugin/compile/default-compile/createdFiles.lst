@@ -1,0 +1,5 @@
+com\by\shopemail\ShopEmailApplication.class
+com\by\listener\EmailQueueListener.class
+com\by\config\RabbitMQConfig.class
+com\by\service\IEmailService.class
+com\by\service\impl\EmailServiceImpl.class

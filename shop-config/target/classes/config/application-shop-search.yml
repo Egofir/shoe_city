@@ -1,0 +1,10 @@
+server:
+  port: 8006
+spring:
+  application:
+    name: shop-search
+es:
+  host: 182.61.49.77
+  port: 9200
+  index: shop-index
+  type: shop-type

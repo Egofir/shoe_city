@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="shop-config" />
+        <module name="shop-sso" />
+        <module name="shop-entity" />
+        <module name="shop-feign" />
+        <module name="shop-car" />
+        <module name="shop-resources" />
+        <module name="shop-eureka" />
+        <module name="shop-search" />
+        <module name="shop-back" />
+        <module name="shop-goods" />
+        <module name="shop-zuul" />
+        <module name="shop-order" />
+        <module name="shop-email" />
+        <module name="shop-address" />
+        <module name="shop-user" />
+        <module name="shop-talk" />
+        <module name="shop-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo" target="1.8" />
+      <module name="mybatis-datasource" target="1.8" />
+      <module name="shop-home" target="1.8" />
+      <module name="shop-item" target="1.8" />
+      <module name="shop-pay" target="1.8" />
+      <module name="shop-seckill" target="1.8" />
+      <module name="shop-talk" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo" options="-parameters" />
+      <module name="mybatis-datasource" options="-parameters" />
+      <module name="shop-address" options="-parameters" />
+      <module name="shop-back" options="-parameters" />
+      <module name="shop-car" options="-parameters" />
+      <module name="shop-common" options="-parameters" />
+      <module name="shop-config" options="-parameters" />
+      <module name="shop-email" options="-parameters" />
+      <module name="shop-entity" options="-parameters" />
+      <module name="shop-eureka" options="-parameters" />
+      <module name="shop-feign" options="-parameters" />
+      <module name="shop-goods" options="-parameters" />
+      <module name="shop-home" options="-parameters" />
+      <module name="shop-item" options="-parameters" />
+      <module name="shop-order" options="-parameters" />
+      <module name="shop-pay" options="-parameters" />
+      <module name="shop-resources" options="-parameters" />
+      <module name="shop-search" options="-parameters" />
+      <module name="shop-seckill" options="-parameters" />
+      <module name="shop-sso" options="-parameters" />
+      <module name="shop-talk" options="-parameters" />
+      <module name="shop-user" options="-parameters" />
+      <module name="shop-zuul" options="-parameters" />
+    </option>
+  </component>
+</project>

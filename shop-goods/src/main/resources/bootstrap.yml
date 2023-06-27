@@ -1,0 +1,6 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: shop-goods,eureka-client,datasource,mq
+      name: application

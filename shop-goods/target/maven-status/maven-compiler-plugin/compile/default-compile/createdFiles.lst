@@ -1,0 +1,9 @@
+com\by\service\IGoodsService.class
+com\by\mapper\GoodsMapper.class
+com\by\service\impl\GoodsPicServiceImpl.class
+com\by\controller\GoodsController.class
+com\by\config\MyBatisPlusConfig.class
+com\by\service\impl\GoodsServiceImpl.class
+com\by\shopgoods\ShopGoodsApplication.class
+com\by\mapper\GoodPicMapper.class
+com\by\service\IGoodsPicService.class

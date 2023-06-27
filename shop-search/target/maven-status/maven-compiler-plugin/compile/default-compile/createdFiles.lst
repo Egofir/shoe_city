@@ -1,0 +1,7 @@
+com\by\service\IGoodsSearchService.class
+com\by\config\EsConfig.class
+com\by\shopsearch\ShopSearchApplication.class
+com\by\controller\SearchGoodsController.class
+com\by\config\RabbitMQConfig.class
+com\by\service\impl\GoodsSearchServiceImpl.class
+com\by\listener\GoodsQueueListener.class

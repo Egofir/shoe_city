@@ -1,0 +1,5 @@
+com\by\mapper\AddressMapper.class
+com\by\controller\AddressController.class
+com\by\service\impl\AddressServiceImpl.class
+com\by\shopaddress\ShopAddressApplication.class
+com\by\service\IAddressService.class

@@ -1,0 +1,3 @@
+com\by\config\RabbitMQConfig.class
+com\by\controller\SSOUserController.class
+com\by\shopsso\ShopSsoApplication.class

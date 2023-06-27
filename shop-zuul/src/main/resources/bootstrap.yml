@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: zuul,eureka-client
+      name: application
+zuul:
+  sensitive-headers:

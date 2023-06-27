@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-config/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-eureka/pom.xml" />
+        <option value="$PROJECT_DIR$/../demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-zuul/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-user/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-entity/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-back/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-feign/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-common/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-goods/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-resources/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-search/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-email/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-car/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-order/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-address/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-talk/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/../demo/pom.xml" />
+        <option value="$PROJECT_DIR$/../shop-talk/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>

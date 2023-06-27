@@ -1,0 +1,9 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: shop-car,eureka-client,datasource,redis
+      name: application
+mybatis-plus:
+  mapper-locations: classpath:mapper/*xml
+  type-aliases-package: com.by

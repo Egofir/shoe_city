@@ -1,0 +1,12 @@
+com\by\entity\Order.class
+com\by\entity\Appraisement.class
+com\by\entity\ShopException.class
+com\by\entity\Email.class
+com\by\entity\User.class
+com\by\domain\CarGoods.class
+com\by\entity\OrderDetail.class
+com\by\entity\ResultEntity.class
+com\by\entity\Address.class
+com\by\entity\Goods.class
+com\by\entity\GoodsPic.class
+com\by\entity\Car.class

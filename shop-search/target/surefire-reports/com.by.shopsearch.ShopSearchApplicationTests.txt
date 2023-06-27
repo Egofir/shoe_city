@@ -1,0 +1,9 @@
+-------------------------------------------------------------------------------
+Test set: com.by.shopsearch.ShopSearchApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 7.082 s <<< FAILURE! - in com.by.shopsearch.ShopSearchApplicationTests
+contextLoads  Time elapsed: 0.008 s  <<< ERROR!
+java.lang.IllegalStateException: Failed to load ApplicationContext
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'esConfig': Injection of autowired dependencies failed; nested exception is java.lang.IllegalArgumentException: Could not resolve placeholder 'es.host' in value "${es.host}"
+Caused by: java.lang.IllegalArgumentException: Could not resolve placeholder 'es.host' in value "${es.host}"
+

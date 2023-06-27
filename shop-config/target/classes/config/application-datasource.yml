@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    username: root
+    password: 5271287
+    url: jdbc:mysql://localhost:3306/shoe_city
+    driver-class-name: com.mysql.cj.jdbc.Driver

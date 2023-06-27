@@ -1,0 +1,5 @@
+com\by\mapper\CarMapper.class
+com\by\controller\CarController.class
+com\by\service\impl\CarServiceImpl.class
+com\by\service\ICarService.class
+com\by\shopcar\ShopCarApplication.class

@@ -1,0 +1,8 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: shop-address,eureka-client,datasource
+      name: application
+mybatis-plus:
+  mapper-locations: classpath:mapper/*.xml

@@ -1,0 +1,10 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: shop-order,eureka-client,datasource,redis,mq
+      name: application
+  rabbitmq:
+    listener:
+      simple:
+        acknowledge-mode: manual

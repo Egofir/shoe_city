@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9536484c-e041-4ff2-978a-d7171bbb2cd6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/config/BaseDatasourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/config/DataSourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/config/DatasourceProperties1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/config/DatasourceProperties2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/config/DynamicDatasourceConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/entity/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/entity/OrderDetail.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/mapper/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/java/com/by/mybatisdatasource/MybatisDatasourceApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/resources/application.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/main/resources/mapper/OrderMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mybatis-datasource/src/test/java/com/by/mybatisdatasource/MybatisDatasourceApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-address/target/shop-address.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-address/target/shop-address.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-address/target/shop-address.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-address/target/shop-address.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-address/target/surefire-reports/2023-06-22T23-02-24_615-jvmRun1.dump" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-address/target/surefire-reports/2023-06-22T23-02-24_615-jvmRun1.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-address/target/surefire-reports/TEST-com.by.shopaddress.ShopAddressApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-address/target/surefire-reports/TEST-com.by.shopaddress.ShopAddressApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-address/target/surefire-reports/com.by.shopaddress.ShopAddressApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-address/target/surefire-reports/com.by.shopaddress.ShopAddressApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-entity/src/main/java/com/by/entity/Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-entity/src/main/java/com/by/entity/Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-entity/target/classes/com/by/entity/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-entity/target/classes/com/by/entity/Order.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-entity/target/shop-entity-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-entity/target/shop-entity-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-order/src/main/java/com/by/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-order/src/main/java/com/by/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-order/target/classes/com/by/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-order/target/classes/com/by/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-order/target/shop-order.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-order/target/shop-order.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-order/target/shop-order.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-order/target/shop-order.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-order/target/surefire-reports/2023-06-24T11-14-36_076-jvmRun1.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-order/target/surefire-reports/TEST-com.by.shoporder.ShopOrderApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-order/target/surefire-reports/TEST-com.by.shoporder.ShopOrderApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-order/target/surefire-reports/com.by.shoporder.ShopOrderApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-order/target/surefire-reports/com.by.shoporder.ShopOrderApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-sso/target/shop-sso.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-sso/target/shop-sso.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-sso/target/shop-sso.jar.original" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-sso/target/shop-sso.jar.original" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-sso/target/surefire-reports/2023-06-24T12-20-24_490-jvmRun1.dumpstream" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-sso/target/surefire-reports/TEST-com.by.shopsso.ShopSsoApplicationTests.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-sso/target/surefire-reports/TEST-com.by.shopsso.ShopSsoApplicationTests.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-sso/target/surefire-reports/com.by.shopsso.ShopSsoApplicationTests.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-sso/target/surefire-reports/com.by.shopsso.ShopSsoApplicationTests.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../shop-sso/target/test-classes/com/by/shopsso/ShopSsoApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/../shop-sso/target/test-classes/com/by/shopsso/ShopSsoApplicationTests.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\Java\apache-maven-3.6.3\repository" />
+        <option name="mavenHome" value="F:/Java/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="F:\Java\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2QrV3oBiKVy0w3zJubJQwHHJU2G" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="foldersAlwaysOnTop" value="false" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;deletionFromPopupRequiresConfirmation&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;1.8&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/shoe-city/shop-pay/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.13808978&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;spring.boot&quot;,
+    &quot;settings.editor.splitter.proportion&quot;: &quot;0.2803262&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;fe7faa3f7f2776c8eacb7be2e473f693&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.by.service" />
+      <recent name="com.by.mapper" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\shoe-city\shop-pay\src\main\resources" />
+      <recent name="D:\shoe-city\shop-order\src\main\resources" />
+      <recent name="D:\shoe-city\shop-order\src\main\java\com\by" />
+      <recent name="D:\shoe-city\mybatis-datasource\src\main\resources\mapper" />
+      <recent name="D:\shoe-city\mybatis-datasource\src\main\java\com\by\entity" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\shoe-city\shop-address\src\main\resources\mapper" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.by.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ShopOrderApplication">
+    <configuration name="ShopCarApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-car" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.shopcar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.by.shopcar" />
+      <option name="MAIN_CLASS_NAME" value="com.by.shopcar.ShopCarApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopSsoApplicationTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-sso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.shopsso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.by.shopsso" />
+      <option name="MAIN_CLASS_NAME" value="com.by.shopsso.ShopSsoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopSsoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="shop-sso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.by.shopsso.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.by.shopsso" />
+      <option name="MAIN_CLASS_NAME" value="com.by.shopsso.ShopSsoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopAddressApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-address" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopaddress.ShopAddressApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopBackApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-back" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopback.ShopBackApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopCarApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-car" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopcar.ShopCarApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopConfigApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-config" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopconfig.ShopConfigApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopEmailApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-email" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopemail.ShopEmailApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopEurekaApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-eureka" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopeureka.ShopEurekaApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopGoodsApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-goods" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopgoods.ShopGoodsApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopOrderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-order" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shoporder.ShopOrderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopResourcesApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-resources" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopresources.ShopResourcesApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopSearchApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-search" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopsearch.ShopSearchApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopSsoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-sso" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopsso.ShopSsoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopUserApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-user" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopuser.ShopUserApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ShopZuulApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="shop-zuul" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.by.shopzuul.ShopZuulApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.ShopCarApplicationTests.contextLoads" />
+      <item itemvalue="JUnit.ShopSsoApplicationTests" />
+      <item itemvalue="JUnit.ShopSsoApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.ShopAddressApplication" />
+      <item itemvalue="Spring Boot.ShopOrderApplication" />
+      <item itemvalue="Spring Boot.ShopCarApplication" />
+      <item itemvalue="Spring Boot.ShopEmailApplication" />
+      <item itemvalue="Spring Boot.ShopSsoApplication" />
+      <item itemvalue="Spring Boot.ShopSearchApplication" />
+      <item itemvalue="Spring Boot.ShopResourcesApplication" />
+      <item itemvalue="Spring Boot.ShopGoodsApplication" />
+      <item itemvalue="Spring Boot.ShopBackApplication" />
+      <item itemvalue="Spring Boot.ShopUserApplication" />
+      <item itemvalue="Spring Boot.ShopZuulApplication" />
+      <item itemvalue="Spring Boot.ShopConfigApplication" />
+      <item itemvalue="Spring Boot.ShopEurekaApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ShopCarApplicationTests.contextLoads" />
+        <item itemvalue="JUnit.ShopSsoApplicationTests" />
+        <item itemvalue="JUnit.ShopSsoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9536484c-e041-4ff2-978a-d7171bbb2cd6" name="Changes" comment="" />
+      <created>1686111490660</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686111490660</updated>
+      <workItem from="1686111491890" duration="24463000" />
+      <workItem from="1686286852937" duration="16668000" />
+      <workItem from="1686369252478" duration="20335000" />
+      <workItem from="1686462591396" duration="18808000" />
+      <workItem from="1686537925329" duration="25197000" />
+      <workItem from="1686664650608" duration="4404000" />
+      <workItem from="1686721306868" duration="18890000" />
+      <workItem from="1686797782725" duration="20162000" />
+      <workItem from="1686969702897" duration="2568000" />
+      <workItem from="1686984767581" duration="12560000" />
+      <workItem from="1687065590918" duration="26246000" />
+      <workItem from="1687139946216" duration="17891000" />
+      <workItem from="1687173364559" duration="9250000" />
+      <workItem from="1687225633641" duration="28629000" />
+      <workItem from="1687305469183" duration="38388000" />
+      <workItem from="1687354731008" duration="6743000" />
+      <workItem from="1687390732277" duration="864000" />
+      <workItem from="1687391681309" duration="40904000" />
+      <workItem from="1687495075615" duration="14524000" />
+      <workItem from="1687509934901" duration="161000" />
+      <workItem from="1687510316224" duration="52303000" />
+      <workItem from="1687659293065" duration="4542000" />
+      <workItem from="1687763370543" duration="1323000" />
+      <workItem from="1687772935822" duration="172000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

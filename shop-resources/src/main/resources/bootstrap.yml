@@ -1,0 +1,15 @@
+spring:
+  cloud:
+    config:
+      uri: http://localhost:9999
+      profile: shop-resources,eureka-client
+      name: application
+fdfs:
+  tracker-list:
+    - 182.61.49.77:22122
+  connect-timeout: 3000
+  so-timeout: 3000
+  thumb-image:
+    height: 200
+    width: 200
+fasthome: http://182.61.49.77:8080/

@@ -1,0 +1,4 @@
+com\by\feign\api\IAddressService.class
+com\by\feign\api\ICarService.class
+com\by\feign\api\IUserService.class
+com\by\feign\api\IGoodsService.class

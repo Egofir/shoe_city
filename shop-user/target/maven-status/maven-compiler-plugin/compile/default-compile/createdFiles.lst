@@ -1,0 +1,6 @@
+com\by\service\impl\UserServiceImpl.class
+com\by\mapper\UserMapper.class
+com\by\service\IUserService.class
+com\by\config\MyBatisPlusConfig.class
+com\by\shopuser\ShopUserApplication.class
+com\by\controller\UserController.class

@@ -1,0 +1,9 @@
+D:\shoe-city\shop-goods\src\main\java\com\by\mapper\GoodsMapper.java
+D:\shoe-city\shop-goods\src\main\java\com\by\service\IGoodsService.java
+D:\shoe-city\shop-goods\src\main\java\com\by\shopgoods\ShopGoodsApplication.java
+D:\shoe-city\shop-goods\src\main\java\com\by\config\MyBatisPlusConfig.java
+D:\shoe-city\shop-goods\src\main\java\com\by\controller\GoodsController.java
+D:\shoe-city\shop-goods\src\main\java\com\by\mapper\GoodPicMapper.java
+D:\shoe-city\shop-goods\src\main\java\com\by\service\IGoodsPicService.java
+D:\shoe-city\shop-goods\src\main\java\com\by\service\impl\GoodsPicServiceImpl.java
+D:\shoe-city\shop-goods\src\main\java\com\by\service\impl\GoodsServiceImpl.java

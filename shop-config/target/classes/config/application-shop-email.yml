@@ -1,0 +1,9 @@
+server:
+  port: 8008
+spring:
+  application:
+    name: shop-email
+  mail:
+    host: smtp.163.com
+    username: 18048609540@163.com
+    password: ECPPMMPXKSVFHSOF
